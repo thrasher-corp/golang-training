@@ -1,7 +1,7 @@
-# Homework - Scope
-While on master branch use this command `git checkout -b scope` to create a new branch called **scope** then do the following:
+# Homework - Structs
+While on master branch use this command `git checkout -b structs` to create a new branch called **scope** then do the following:
 - Please add a go source file **main.go** to this folder.
-- Write a program that demonstrates your understanding of variable scoping by assigning global and local variables to display information to standard output. 
+- Write a program that has an animal type with all fields you can think of. Create multiple animal variables 1 cat, 1 dog etc. Display all information to the std output. 
 - Run the program with the command `go run main.go` to determine if there are any build errors.
 - Using the command `git status` will display changed files.
 - Using the command `git add` and then appending the file name shown in `git status` will add the file to git, ready to be commited.

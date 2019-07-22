@@ -1,7 +1,7 @@
-# Homework - Scope
-While on master branch use this command `git checkout -b scope` to create a new branch called **scope** then do the following:
-- Please add a go source file **main.go** to this folder.
-- Write a program that demonstrates your understanding of variable scoping by assigning global and local variables to display information to standard output. 
+# Homework - Arrays
+While on master branch use this command `git checkout -b arrays` to create a new branch called **functions** then do the following:
+- Please add a go source file **main.go** to this folder 
+- Create a program that creates an array, a slice and a map. Enter different data into each entry and display the data to std output.
 - Run the program with the command `go run main.go` to determine if there are any build errors.
 - Using the command `git status` will display changed files.
 - Using the command `git add` and then appending the file name shown in `git status` will add the file to git, ready to be commited.
